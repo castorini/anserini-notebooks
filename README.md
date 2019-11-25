@@ -5,7 +5,7 @@
 [![Maven Central](https://img.shields.io/maven-central/v/io.anserini/anserini?color=brightgreen)](https://search.maven.org/search?q=a:anserini)
 [![PyPI](https://img.shields.io/pypi/v/pyserini?color=brightgreen)](https://pypi.org/project/pyserini/)
 
-This repo holds static copies of notebooks for Anserini (Java) and Pyserini (Python interface to Anserini).
+This repo holds static copies of notebooks for the [Anserini](https://github.com/castorini/anserini) IR toolkit (Java) and [Pyserini](https://github.com/castorini/pyserini) (Python interface to Anserini).
 There are two ways to play with the notebooks here, using Colab and Binder.
 
 ## Colab
