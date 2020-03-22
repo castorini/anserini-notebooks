@@ -13,9 +13,10 @@ There are two ways to play with the notebooks here, using Colab and Binder.
 The notebooks in this repo are sync'ed (by hand) with notebooks in Colab.
 These online demos provide a low-effort way to try out Anserini and Pyserini features:
 
-+ `anserini_robust04_demo.ipynb`: [Anserini demo on Robust04](https://colab.research.google.com/drive/1s44ylhEkXDzqNgkJSyXDYetGIxO9TWZn)
-+ `pyserini_robust04_demo.ipynb`: [Pyserini demo on Robust04](https://colab.research.google.com/drive/1wiDOnjsPMZzrleQF-GnE5W6VsF7biuXH)
-+ `pyserini_msmarco_passage_demo.ipynb`: [Pyserini demo on MS MARCO passage retrieval task](https://colab.research.google.com/drive/1nY1bjwop3Enygrks-208EilhiCYmYKT6)
++ Anserini demo on Robust04: [[Colab]](https://colab.research.google.com/drive/1s44ylhEkXDzqNgkJSyXDYetGIxO9TWZn) [[GitHub]](anserini_robust04_demo.ipynb)
++ Pyserini demo on Robust04: [[Colab]](https://colab.research.google.com/drive/1wiDOnjsPMZzrleQF-GnE5W6VsF7biuXH) [[GitHub]](pyserini_robust04_demo.ipynb)
++ Pyserini demo on MS MARCO passage retrieval task: [[Colab]](https://colab.research.google.com/drive/1nY1bjwop3Enygrks-208EilhiCYmYKT6) [[GitHub]](pyserini_msmarco_passage_demo.ipynb)
++ Pyserini Demo on COVID-19 Dataset (Title + Abstract Index): [[Colab]](https://colab.research.google.com/drive/1mrapJp6-RIB-3u6FaJVa4WEwFdEBOcTe) [[GitHub]](pyserini_covid19_default.ipynb)
 
 Click "Open in Playground" and you'll be able to replicate our results!
 
