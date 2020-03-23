@@ -17,6 +17,7 @@ These online demos provide a low-effort way to try out Anserini and Pyserini fea
 + Pyserini demo on Robust04: [[Colab]](https://colab.research.google.com/drive/1wiDOnjsPMZzrleQF-GnE5W6VsF7biuXH) [[GitHub]](pyserini_robust04_demo.ipynb)
 + Pyserini demo on MS MARCO passage retrieval task: [[Colab]](https://colab.research.google.com/drive/1nY1bjwop3Enygrks-208EilhiCYmYKT6) [[GitHub]](pyserini_msmarco_passage_demo.ipynb)
 + Pyserini Demo on COVID-19 Dataset (Title + Abstract Index): [[Colab]](https://colab.research.google.com/drive/1mrapJp6-RIB-3u6FaJVa4WEwFdEBOcTe) [[GitHub]](pyserini_covid19_default.ipynb)
++ Pyserini+SciBERT Demo on COVID-19 Dataset (Title + Abstract Index): [[Colab]](https://colab.research.google.com/drive/1L_yWXM4tOhZsHpMDNIIux-hfp1-pW3RL) [[GitHub]](Pyserini+SciBERT_on_COVID_19_Demo.ipynb)
 
 Click "Open in Playground" and you'll be able to replicate our results!
 
