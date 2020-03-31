@@ -19,6 +19,7 @@ These online demos provide a low-effort way to try out Anserini and Pyserini fea
 + Pyserini Demo on COVID-19 Dataset (Title + Abstract Index): [[Colab]](https://colab.research.google.com/drive/1mrapJp6-RIB-3u6FaJVa4WEwFdEBOcTe) [[GitHub]](pyserini_covid19_default.ipynb)
 + Pyserini Demo on COVID-19 Dataset (Paragraph Index): [[Colab]](https://colab.research.google.com/drive/1VvUR8P2CZvmdwC_J3AvRH5GvtMld8_zN) [[GitHub]](pyserini_covid19_paragraph.ipynb)
 + Pyserini+SciBERT Demo on COVID-19 Dataset (Title + Abstract Index): [[Colab]](https://colab.research.google.com/github/castorini/anserini-notebooks/blob/master/Pyserini%2BSciBERT_on_COVID_19_Demo.ipynb) [[GitHub]](Pyserini+SciBERT_on_COVID_19_Demo.ipynb)
++ Related Article Search on COVID-19 Dataset: : [[Colab]](https://colab.research.google.com/github/castorini/anserini-notebooks/blob/master/covid19_related_article_search.ipynb) [[GitHub]](covid19_related_article_search.ipynb)
 
 Click "Open in Playground" and you'll be able to replicate our results!
 
