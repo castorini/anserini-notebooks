@@ -15,7 +15,10 @@ These online demos provide a low-effort way to try out Anserini and Pyserini fea
 
 + Anserini demo on Robust04: [[Colab]](https://colab.research.google.com/github/castorini/anserini-notebooks/blob/master/anserini_robust04_demo.ipynb) [[GitHub]](anserini_robust04_demo.ipynb)
 + Pyserini demo on Robust04: [[Colab]](https://colab.research.google.com/github/castorini/anserini-notebooks/blob/master/pyserini_robust04_demo.ipynb) [[GitHub]](pyserini_robust04_demo.ipynb)
-+ Pyserini demo on MS MARCO passage retrieval task: [[Colab]](https://colab.research.google.com/github/castorini/anserini-notebooks/blob/master/pyserini_msmarco_passage_demo.ipynb) [[GitHub]](pyserini_msmarco_passage_demo.ipynb)
++ Pyserini demo on MS MARCO passage ranking task: [[Colab]](https://colab.research.google.com/github/castorini/anserini-notebooks/blob/master/pyserini_msmarco_passage_demo.ipynb) [[GitHub]](pyserini_msmarco_passage_demo.ipynb)
+
+These are older notebooks that aren't being maintained anymore:
+
 + Pyserini Demo on COVID-19 Dataset (Title + Abstract Index): [[Colab]](https://colab.research.google.com/github/castorini/anserini-notebooks/blob/master/pyserini_covid19_default.ipynb) [[GitHub]](pyserini_covid19_default.ipynb)
 + Pyserini Demo on COVID-19 Dataset (Paragraph Index): [[Colab]](https://colab.research.google.com/github/castorini/anserini-notebooks/blob/master/pyserini_covid19_paragraph.ipynb) [[GitHub]](pyserini_covid19_paragraph.ipynb)
 + Pyserini+SciBERT Demo on COVID-19 Dataset (Title + Abstract Index): [[Colab]](https://colab.research.google.com/github/castorini/anserini-notebooks/blob/master/Pyserini%2BSciBERT_on_COVID_19_Demo.ipynb) [[GitHub]](Pyserini+SciBERT_on_COVID_19_Demo.ipynb)
